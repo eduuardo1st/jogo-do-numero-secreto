@@ -25,9 +25,9 @@ O "Jogo do Número Secreto" é uma aplicação web interativa onde o usuário te
 
 Para executar este projeto localmente, siga os passos abaixo:
 
-1.  **Clone o repositório** (se este projeto estiver em um repositório Git):
+1.  **Clone o repositório**:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/eduuardo1st/jogo-do-numero-secreto
     ```
 2.  **Navegue até o diretório do projeto**:
     ```bash
