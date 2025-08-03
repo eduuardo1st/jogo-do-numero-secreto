@@ -23,7 +23,11 @@ O "Jogo do Número Secreto" é uma aplicação web interativa onde o usuário te
 
 ## Como Rodar o Projeto
 
-Para executar este projeto localmente, siga os passos abaixo:
+Abra este link em seu navegador, para ver a aplicação: https://jogo-do-numero-secreto-nu-one-88.vercel.app/
+
+**OU**
+
+Caso queira executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório**:
     ```bash
