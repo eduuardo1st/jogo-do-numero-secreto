@@ -46,6 +46,6 @@ Este projeto foi desenvolvido como parte do programa Oracle ONE, uma iniciativa 
 ## Autor
 
 Eduardo Gonçalves
-- Email: eduardouc388@gmail
+- Email: eduardouc388@gmail.com
 
 
