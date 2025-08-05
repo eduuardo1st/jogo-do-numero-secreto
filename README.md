@@ -6,6 +6,10 @@ Este é um jogo simples de adivinhação de números, desenvolvido como parte do
 
 O "Jogo do Número Secreto" é uma aplicação web interativa onde o usuário tenta adivinhar um número secreto gerado aleatoriamente. O jogo fornece dicas se o chute do usuário é maior ou menor que o número secreto, ajudando-o a chegar à resposta correta. Ao acertar, o jogo informa em quantas tentativas o número foi adivinhado e permite iniciar um novo jogo.
 
+![Imagem da aplicacao](img/Tela1.png)
+
+![Imagem da aplicacao](img/Tela2.png)
+
 ## Funcionalidades
 
 - Geração de número secreto aleatório entre 1 e 100.
