@@ -31,7 +31,7 @@ Caso queira executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório**:
     ```bash
-    git clone https://github.com/eduuardo1st/jogo-do-numero-secreto
+    git clone https://github.com/eduuardo1st/jogo-do-numero-secreto.git
     ```
 2.  **Navegue até o diretório do projeto**:
     ```bash
